@@ -1,0 +1,2 @@
+declare
+{Browse 'Hello, World!'}
